@@ -1,3 +1,7 @@
+# Spring Framework Overview
+
+[![Spring Framework](https://github.com/shenoyprashanth/notes/blob/main/spring/spring.PNG "Spring Framework")](https://github.com/shenoyprashanth/notes/blob/main/spring/spring.PNG "Spring Framework")
+
 1.  Dependency injection, Bean Management, SPEL.
 
 2.  Microservice with embedded Tomcat. Automatic class path scanning for suitable defaults.
@@ -16,5 +20,3 @@
 15.  Spring abstraction for OAuth, SAML and Kerberos.
 16.  Spring implementation of Enterprise integration patterns such as Filters, Transformers, Adapters supporting HTTP, TCP, File etc.
 17.  Batch framework for scheduling, automatic retry of jobs etc.
-
-[![Spring Framework](https://github.com/shenoyprashanth/notes/blob/main/spring/spring.PNG "Spring Framework")](https://github.com/shenoyprashanth/notes/blob/main/spring/spring.PNG "Spring Framework")
