@@ -8,13 +8,17 @@
 
 # Microservices
 
-- API Gateway
+- DNS/Load Balancer/ CDN
 
-- Service Discovery
+- API Gateway - Security/Throttling/Metering
 
-- Circuit Breaker
+- Service Discovery - Eureka, ZooKeeper
+
+- Circuit Breaker, Retry - Hystrix
 
 - Centralized Configuration
+
+- Databases : Relational, KV Stores, Column Oriented, Document databases.
 
 - Horizontal Scaling
 
